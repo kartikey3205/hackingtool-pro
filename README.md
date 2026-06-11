@@ -10,7 +10,7 @@
 
 > **The Ultimate All-in-One Hacking Suite - Reimagined & Supercharged**
 
-![HackingTool Pro Banner](docs/screenshots/banner.png)
+![HackingTool Pro Banner](hackingtoolbanner.png)
 
 ## 🚀 What's New in v3.0.0
 
