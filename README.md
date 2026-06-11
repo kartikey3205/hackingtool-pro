@@ -32,8 +32,7 @@ HackingTool Pro is a complete overhaul of the original hackingtool framework, fe
 **Kartikey Rai** - Cybersecurity Researcher & Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-kartikey3205-black?logo=github)](https://github.com/kartikey3205)
-[![Twitter](https://img.shields.io/badge/Twitter-@kartikeyrai-blue?logo=twitter)](https://twitter.com/kartikeyrai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartikeyrai-blue?logo=linkedin)](https://linkedin.com/in/kartikeyrai)
+
 
 ## 📋 Categories
 
