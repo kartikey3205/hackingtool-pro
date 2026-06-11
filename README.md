@@ -527,4 +527,5 @@ This project is licensed under the MIT License - see the LICENSE file.
 ⚠️ Disclaimer
 This tool is for educational and authorized testing purposes only. Users are responsible for complying with applicable laws. The developers assume no liability for misuse.
 
-<p align="center"> Made with ❤️ by <a href="https://github.com/kartikey3205">Kartikey Rai</a> </p> <p align="center"> ⭐ Star this repo if you find it helpful! </p> ```
+                                                Made with ❤️ by Kartikey Rai
+                                         ⭐ Star this repo if you find it helpful!```
